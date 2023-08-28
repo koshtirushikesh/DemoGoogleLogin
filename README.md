@@ -1,2 +1,2 @@
 # GoogleLoginAngular
-3rd party login using google 
+3rd party login using google.
